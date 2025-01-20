@@ -1,4 +1,4 @@
-name: 99-Destroy Resources
+name: Destroy AWS Resources
 
 on:
   workflow_dispatch:
